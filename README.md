@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Yeonjun
 
-<!--
-**jebiyeon02/jebiyeon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who enjoys building clean and scalable systems.  
+I love creating intuitive, user-friendly interfaces.  
+I mainly work on React-based projects and am passionate about optimizing user experience and performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Backend: Java, MySQL
+- Frontend: HTML/CSS,JS,React,Next,React Native,Kotlin
+- DevOps: Docker, AWS
+
+---
+
+## 📈 GitHub Stats
+
+![Yeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebiyeon02&show_icons=true&hide_title=true&hide=prs&theme=default)
+
+---
+
+## 📫 Contact
+
+- Email: jhje55958@gmail.com
