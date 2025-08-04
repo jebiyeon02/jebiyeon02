@@ -9,7 +9,7 @@ I mainly work on React-based projects and am passionate about optimizing user ex
 ## 🛠 Tech Stack
 
 - Backend: Java, MySQL
-- Frontend: HTML/CSS,JS,React,Next,React Native,Kotlin
+- Frontend: HTML/CSS,JS,React,Next,React Native,Kotlin, Android
 - DevOps: Docker, AWS
 
 ---
