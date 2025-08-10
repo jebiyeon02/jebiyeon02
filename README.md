@@ -11,6 +11,7 @@ I mainly work on React-based projects and am passionate about optimizing user ex
 - Backend: Java, MySQL
 - Frontend: HTML/CSS,JS,React,Next,React Native,Kotlin, Android
 - DevOps: Docker, AWS
+- Others: C,C++,Python,JAVA,php
 
 ---
 
